@@ -2,8 +2,8 @@
 //  Drawn-Bridging-Header.h
 //  Drawn
 //
-//  Created by Aaron Sky on 11/14/15.
-//  Copyright © 2015 Aaron Sky. All rights reserved.
+//  Created by arman on 11/14/15.
+//  Copyright © 2015 arman. All rights reserved.
 //
 
 #ifndef Drawn_Bridging_Header_h
